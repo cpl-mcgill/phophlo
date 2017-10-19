@@ -890,7 +890,7 @@ ul.features li:nth-child(even) { }
 /* ------------------------------------------------------------------ */
 
 #phophlo {
-   background:  url(img/linedpaper.png);
+   background: #fff url(img/linedpaper2.png);
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -903,7 +903,7 @@ ul.features li:nth-child(even) { }
 (min-resolution: 192dpi) {
 
    #phophlo {
-      background: url(img/linedpaper_@2X.png);
+      background: #fff url(img/linedpaper2_@2X.png);
       background-size: 412px 300px;
    }
 
