@@ -272,6 +272,41 @@ ul#nav li.current a { color: #fff; }
 .fluid-video-wrapper { margin-top: 18px; }
 
 
+
+
+/* ------------------------------------------------------------------ */
+/* d. FAQ Section
+/* ------------------------------------------------------------------ */
+
+#faq {
+   background: #fff;
+   padding-top: 96px;
+   padding-bottom: 78px;
+   overflow: hidden;
+}
+#faq .feature {
+   margin-top: 30px;
+   margin-bottom: 54px;
+}
+#faq .right {
+   padding-left: 32px;
+   float: right;   
+}
+#faq .left {
+   padding-right: 32px;
+   float: left;   
+}
+#faq h3 {
+   font: 16px/24px 'montserrat-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   color: #222;
+}
+.fluid-video-wrapper { margin-top: 18px; }
+
+
+
+
 /*----------------------------------------------*/
 /*	e. Pricing Section
 /*----------------------------------------------*/
@@ -910,6 +945,17 @@ ul.features li:nth-child(even) { }
    line-height: 80px;
    width: 47%;  
 }
+
+#phophlo_menu button_sails{
+   display: inline-block;
+   height: 60px;
+   margin: 6px 6px;
+   padding: 0 20px;
+   font-size: 14px;
+   line-height: 60px;
+   width: 47%;  
+}
+
 
 
 #phophlo_menu button  {
