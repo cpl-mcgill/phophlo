@@ -946,7 +946,7 @@ ul.features li:nth-child(even) { }
    width: 47%;  
 }
 
-#phophlo_menu button_sails{
+#phophlo_menu button_sails {
    display: inline-block;
    height: 60px;
    margin: 6px 6px;
@@ -955,8 +955,6 @@ ul.features li:nth-child(even) { }
    line-height: 60px;
    width: 47%;  
 }
-
-
 
 #phophlo_menu button  {
     display: inline-block;
