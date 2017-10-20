@@ -889,12 +889,12 @@ ul.features li:nth-child(even) { }
 /* i2. Phophlo header Section
 /* ------------------------------------------------------------------ */
 
+
+
 #phophlo {
-   background: #fff url(img/cream_pixels.png);
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 66px;
+   background: #10999E url(img/linedpaper2.png); ;/*#23292f url(img/hero-bg.png);*/
    overflow: hidden;
-   text-align: center;
 }
 
 /* For high-res devices */
@@ -902,13 +902,12 @@ ul.features li:nth-child(even) { }
 (-webkit-min-device-pixel-ratio: 2),
 (min-resolution: 192dpi) {
 
-   #phophlo {
-      background: #fff url(img/cream_pixels_@2X.png);
-      background-size: 412px 300px;
-   }
-
+	#phophlo { 
+		background: #10999E url(img/linedpaper_@2x.png); /* #23292f url(img/hero-bg_@2X.png); */
+		background-size: 160px 160px;
+	}
+  
 }
-
 
 #phophlo a, #phophlo a:visited  { color: #fff; }
 #phophlo a:hover, #phophlo a:focus { color: #11ABB0; }
